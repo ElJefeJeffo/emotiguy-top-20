@@ -1,0 +1,39 @@
+body {
+	background-color: #1A1A1A;
+	font-family: Arial, Helvetica, Sans-Serif;
+	color: rgb(255,215,0);
+}
+
+#stage-shrug {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.next-pg, h1, h2 {
+	text-align: center;
+	font-weight: 1000;
+	margin-top: 55px;
+	margin-bottom: 55px;
+}
+
+.next-pg {
+	font-size: 25px;
+}
+
+h1 {
+	font-size: 80px;
+}
+
+h2 {
+	font-size: 40px;
+}
+
+a:link {
+	color: purple;
+}
+
+a:visited {
+	color: red;
+}
