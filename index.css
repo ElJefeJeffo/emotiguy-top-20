@@ -11,15 +11,15 @@ body {
 	width: 50%;
 }
 
-.next-pg, h1, h2 {
+.big, h1, h2 {
 	text-align: center;
 	font-weight: 1000;
 	margin-top: 55px;
 	margin-bottom: 55px;
 }
 
-.next-pg {
-	font-size: 25px;
+.big {
+	font-size: 15px;
 }
 
 h1 {
