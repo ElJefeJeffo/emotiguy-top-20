@@ -37,3 +37,8 @@ a:link {
 a:visited {
 	color: red;
 }
+
+p {
+	margin-top: 55px;
+	margin-bottom: 55px;
+}
