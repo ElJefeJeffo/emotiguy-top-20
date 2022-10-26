@@ -48,3 +48,9 @@ a:visited {
 ul {
 	display: inline-block;
 }
+
+.wrapper {
+	display: grid;
+	grid-template-columns: repeat(2, [col-start] 1fr);
+	grid-gap: 0px;
+}
